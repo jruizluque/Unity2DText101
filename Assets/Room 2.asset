@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f796b89864965dc4cb664dd46afe3812, type: 3}
+  m_Name: Room 2
+  m_EditorClassIdentifier: 
+  storyText: OK, this looks like room 2.
+  nextStates:
+  - {fileID: 11400000, guid: 8258e2a49d9dbf446803fdaa3bed1e14, type: 2}
+  - {fileID: 11400000, guid: 85a47cb35ca105b488ea7bb0f7134e4e, type: 2}
